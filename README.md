@@ -8,4 +8,4 @@ AnonBrute Is A TOOL THAT CRACKS SSH,FTO,VNC SERVER
 
 2) cd AnonBrute  
 
-3) python3 AnonBrute.py
+3) python3 BruteForce.py
